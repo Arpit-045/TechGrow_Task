@@ -1,12 +1,61 @@
-# TechGrow_Task
-Repository for the task provided by the TechGrow
-In this repository there are source code for the assigned tasks.
-The task Includes-
-1. Notes app using python
-2. No. Guessing game using python
-3. URL shortener using python.
+# 🚀 Tech Grow Task – Python GUI Projects
+
+This repository contains a collection of Python mini-projects developed as part of the **Tech Grow Internship Task**. All applications are built using **Tkinter** for a graphical user interface and **JSON** for data persistence.
+
+---
+
+## 🧠 Projects Overview
+
+### 1️⃣ Notes App 📝
+
+A user-friendly **GUI Notes App** to create, view, and delete notes.
+
+**Features:**
+- Add, read, and delete personal notes
+- Notes saved locally in a JSON file
+- Intuitive and responsive Tkinter interface
+
+**Technologies:** Python, Tkinter, JSON
+
+---
+
+### 2️⃣ Number Guessing Game 🎯
+
+A simple interactive game where users guess a randomly generated number.
+
+**Features:**
+- GUI-based number input and feedback
+- Configurable range and attempt limit
+- Real-time result updates
+
+**Technologies:** Python, Tkinter, Random
 
 
 
-I have used tkinter to add the graphical user interface (GUI)
-The notes app uses json to save its data, and to further modify it also it creates a notes.json file in directory.
+---
+
+### 3️⃣ URL Shortener 🔗
+
+A GUI-based tool that shortens long URLs using the **TinyURL API**.
+
+**Features:**
+- Paste long URLs and generate short versions instantly
+- Copy to clipboard functionality
+- Maintains URL history in JSON
+
+**Technologies:** Python, Tkinter, Requests, JSON, TinyURL API
+ 
+
+
+---
+
+## 🛠️ Installation & Setup
+
+### ✅ Prerequisites
+
+- Python 3.x installed
+- Internet connection (for URL shortener)
+- Required Python libraries:
+  - `tkinter` (standard library)
+  - `requests` (install with pip)
+
